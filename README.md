@@ -1,2 +1,2 @@
 # ads_academy
-Curso Superior de Analise e Desenvolvimento de Sistemas da Fam
+Curso Superior de Analise e Desenvolvimento de Sistemas.
